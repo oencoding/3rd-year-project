@@ -1,4 +1,4 @@
-# tensorflow-vdsr
+
 
 ## Overview
 This is a Tensorflow implementation for ["Accurate Image Super-Resolution Using Very Deep Convolutional Networks", CVPR 16'](http://cv.snu.ac.kr/research/VDSR/VDSR_CVPR2016.pdf).
