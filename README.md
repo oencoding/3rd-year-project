@@ -6,3 +6,4 @@ Here are the code that have been used during the project. Some of the code are m
 2. https://github.com/liliumao/Tensorflow-srcnn
 3. https://github.com/carpedm20/DCGAN-tensorflow
 4. https://github.com/david-gpu/srez
+5. https://github.com/Jongchan/tensorflow-vdsr
