@@ -1,7 +1,8 @@
 # 3rd-year-project
+Here are the code that have been used during the project. Some of the code are modified by myself in order to analyze different models and visualize the result.
 
-References
+#References
 1. https://github.com/tegg89/SRCNN-Tensorflow#references
 2. https://github.com/liliumao/Tensorflow-srcnn
 3. https://github.com/carpedm20/DCGAN-tensorflow
-4. 
+4. https://github.com/david-gpu/srez
