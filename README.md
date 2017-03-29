@@ -7,6 +7,8 @@ VDSR is an improved version of SRCNN which achieved better result and faster tra
 
 DRCN is very similar to VDSR where a recursive structure is used to reduce learning parameters.
 
+DCGAN is the final part of the experiment.This model is a very hot topic in deep learning which is build on the concept of min-max game or so called zero-sum game. It has now been widely used in computer vision related problem and achieves state-of-the-art result. 
+
 
 
 #References
